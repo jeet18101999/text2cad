@@ -1,0 +1,8 @@
+cadquery
+ollama
+PySide6
+pyvista
+pyvistaqt
+python-dotenv
+pillow
+anthropic  # optional: only needed for the Claude backend
